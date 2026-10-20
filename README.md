@@ -1,5 +1,5 @@
 # adzercms/yandex-id
 
-Sign-in with Yandex ID for AdzerCMS: OAuth 2.0 and account linking
+Sign in to an AdzerCMS site with Yandex ID and link it to your account
 
 Read-only package repository: changes go to the monorepository https://github.com/adzercms/adzercms.
